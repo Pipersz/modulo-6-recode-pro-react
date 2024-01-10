@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Mercury Viagens React
+
+Este frontend consome a API criada em https://github.com/Pipersz/modulo-6-recode-pro-dotnet.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
